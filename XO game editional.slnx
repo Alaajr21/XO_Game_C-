@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="XO game editional/XO game editional.vcxproj" Id="5561e239-d705-4651-84ed-fbbbc4471100" />
+</Solution>
